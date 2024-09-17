@@ -1,6 +1,4 @@
 {
-  "/page": "app/page.js",
-  "/icon.ico/route": "app/icon.ico/route.js",
-  "/about/page": "app/about/page.js",
-  "/ecommerce/shop/page": "app/ecommerce/shop/page.js"
+  "/blogs/page": "app/blogs/page.js",
+  "/page": "app/page.js"
 }
